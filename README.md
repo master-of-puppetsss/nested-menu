@@ -6,7 +6,6 @@
 ### Стек технологий
 `Python 3.8`
 `Django 4.1.7`
-`Django REST Framework 3.14.0`
 
 
 ## Установка и запуск
